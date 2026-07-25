@@ -53,14 +53,13 @@ This project engineers several features to support the conversion rate analysis,
 
 ### References
 
-- Enhancing customer repurchase prediction: Integrating classification algorithms with RFM analysis — https://www.sciencedirect.com/science/article/pii/S0970389625000266
-- RFM Modeling in Marketing: The Complete Guide — https://datacx.ai/p/rfm-modeling/
-- RF-LightGBM: A probabilistic ensemble way to predict customer repurchase behaviour — https://arxiv.org/pdf/2109.00724
-- The Impact of Household Size on Consumer Behavior — https://fastercapital.com/topics/the-impact-of-household-size-on-consumer-behavior.html
-- CMU Capstone: Consumer Behaviors (household spending with/without children) — https://www.stat.cmu.edu/capstoneresearch/fall2022/315files_f22/team8.html
-- Changes in consumer spending behavior during the COVID-19 pandemic across product categories — https://pmc.ncbi.nlm.nih.gov/articles/PMC9660125/
-- Parents and children in supermarkets: Incidence and influence — https://www.sciencedirect.com/science/article/abs/pii/S0969698917301145
-
+- Enhancing customer repurchase prediction: Integrating classification algorithms with RFM analysis -> https://www.sciencedirect.com/science/article/pii/S0970389625000266
+- RFM Modeling in Marketing: The Complete Guide -> https://datacx.ai/p/rfm-modeling/
+- RF-LightGBM: A probabilistic ensemble way to predict customer repurchase behaviour -> https://arxiv.org/pdf/2109.00724
+- The Impact of Household Size on Consumer Behavior -> https://fastercapital.com/topics/the-impact-of-household-size-on-consumer-behavior.html
+- CMU Capstone: Consumer Behaviors (household spending with/without children) -> https://www.stat.cmu.edu/capstoneresearch/fall2022/315files_f22/team8.html
+- Changes in consumer spending behavior during the COVID-19 pandemic across product categories -> https://pmc.ncbi.nlm.nih.gov/articles/PMC9660125/
+- Parents and children in supermarkets: Incidence and influence -> https://www.sciencedirect.com/science/article/abs/pii/S0969698917301145
 
 ## Tools
 
