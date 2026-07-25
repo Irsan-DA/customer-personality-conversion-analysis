@@ -1,6 +1,6 @@
 # Customer Personality & Conversion Rate Analysis
 
-Analyzing customer income, spending, and demographic patterns to understand what drives marketing campaign conversion — and identifying which customer segments are most likely to respond to future campaigns.
+Analyzing customer income, spending, and demographic patterns to understand what drives marketing campaign conversion and identifying which customer segments are most likely to respond to future campaigns.
 
 ## Background
 
