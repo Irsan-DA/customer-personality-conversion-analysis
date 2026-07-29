@@ -103,7 +103,7 @@ customer-personality-conversion-analysis/
 ## Limitations
 
 - `Conversion_Rate` is a custom, per-customer metric (`Response / NumWebVisitsMonth`) defined by the project brief, and differs from the standard aggregate definition of conversion rate used in marketing analytics. It is best read as an "efficiency" measure — how few visits a customer needed before responding — rather than a general conversion likelihood.
-- The metric only captures web-channel activity, so it cannot account for other factors that may influence a customer's decision to respond (e.g. catalog or in-store interactions, word-of-mouth, social media exposure).
+- The metric only captures web-channel activity, so it cannot account for other factors that may influence a customer's decision to respond (catalog or in-store interactions, word-of-mouth, social media exposure).
 - Some subgroups have small sample sizes (Youth: 116 customers; Total_Children = 3: 53 customers), so findings for these groups should be interpreted cautiously.
 - All relationships reported here are correlational, not causal.
 
