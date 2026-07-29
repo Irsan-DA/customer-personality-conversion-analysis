@@ -98,13 +98,13 @@ customer-personality-conversion-analysis/
 - **Prioritize customers without children** when targeting future campaigns — this segment shows by far the highest conversion likelihood in this dataset.
 - **Avoid segmenting campaigns primarily by age** — it was not found to be a statistically reliable differentiator here, despite initial visual appearance.
 - **Use spending level as a secondary signal**, not a primary targeting criterion, given its weak (though significant) relationship with conversion.
-- **Investigate further why customers with children convert less often** (e.g. time constraints, differing purchase priorities) to design more relevant campaigns for that segment going forward.
+- **Investigate further why customers with children convert less often** (time constraints, differing purchase priorities) to design more relevant campaigns for that segment going forward.
 
 ## Limitations
 
 - `Conversion_Rate` is a custom, per-customer metric (`Response / NumWebVisitsMonth`) defined by the project brief, and differs from the standard aggregate definition of conversion rate used in marketing analytics. It is best read as an "efficiency" measure — how few visits a customer needed before responding — rather than a general conversion likelihood.
 - The metric only captures web-channel activity, so it cannot account for other factors that may influence a customer's decision to respond (e.g. catalog or in-store interactions, word-of-mouth, social media exposure).
-- Some subgroups have small sample sizes (e.g. Youth: 116 customers; Total_Children = 3: 53 customers), so findings for these groups should be interpreted cautiously.
+- Some subgroups have small sample sizes (Youth: 116 customers; Total_Children = 3: 53 customers), so findings for these groups should be interpreted cautiously.
 - All relationships reported here are correlational, not causal.
 
 ## Source Code
@@ -112,4 +112,4 @@ customer-personality-conversion-analysis/
 - Notebook: [link to Colab / notebook file](https://colab.research.google.com/drive/1B0B51O3NqYDAmjiTz-qDqm-YYf_8rSYU?usp=sharing)
 
 ---
-**Author:** Irsan Maulana Yusuf ([Cuuree](https://github.com/Irsan-DA))
+**Author:** Irsan Maulana Yusuf ([Personal Portfolio](https://github.com/Irsan-DA))
